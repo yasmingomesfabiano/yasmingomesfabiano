@@ -10,6 +10,7 @@ Sou estudante de Desenvolvimento de Sistemas, atualmente cursando o técnico no 
 ### Languages & Tools 🛠  
   
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;
+![Python](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;
 
 
 
