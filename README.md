@@ -1,5 +1,4 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" width="30"/> Hello, World! </h1>
-========================================================================================
 
 Sou estudante de Desenvolvimento de Sistemas, atualmente cursando o técnico no SENAI. Tenho interesse em tecnologia, lógica de programação e no desenvolvimento de soluções práticas por meio de softwares. Busco constantemente aprender novas linguagens, aprimorar minhas habilidades e me preparar para atuar de forma eficiente no mercado de TI.
 
